@@ -45,3 +45,16 @@ figcaption {
     margin-top: 10px;
     margin-bottom: 10px;
 }
+/* table  */
+table {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+thead {
+    color: white;
+    background-color: rgb(76, 132, 206);
+}
+.important-data {
+    background-color: lightblue;
+}
