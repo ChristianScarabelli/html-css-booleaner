@@ -47,14 +47,21 @@ figcaption {
 }
 /* table  */
 table {
-    text-align: center;
+    text-align: left;
     margin-top: 20px;
     margin-bottom: 20px;
+    border-spacing: 0;
+    
 }
 thead {
     color: white;
     background-color: rgb(76, 132, 206);
-    width: 100px;
+}
+th {
+   width: 20%;
+}
+.long-content {
+   width: 60%;
 }
 tbody {
     line-height: 30px;
