@@ -8,9 +8,32 @@ header {
     background-color: rgb(76, 132, 206);
     height: 170px;
 }
-
 .logo {
     height: 70px;
     margin-left: 10px;
     margin-top: 70px;
+}
+/* introduzione */
+.main-title {
+    margin-top: 10px;
+    margin-left: 10px;
+    font-size: 50px;
+}
+.main-title-subject, .article-date {
+    color: grey;
+    margin-left: 10px;
+}
+.main-title-subject {
+    font-size: 20px;
+}
+#subject-name {
+    color: rgb(91, 171, 232);
+}
+.tim-pic-1, .tim-pic-2 {
+    height: 480px;
+    margin-top: 25px;
+    margin-left: 10px;
+}
+figcaption {
+    margin-left: 10px;
 }
