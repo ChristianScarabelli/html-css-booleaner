@@ -54,6 +54,10 @@ table {
 thead {
     color: white;
     background-color: rgb(76, 132, 206);
+    width: 100px;
+}
+tbody {
+    line-height: 30px;
 }
 .important-data {
     background-color: lightblue;
